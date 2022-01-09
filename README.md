@@ -3,7 +3,7 @@
 
 * ### **success response**
     * **Statuts:HTTP 200 OK**
-   * ```json
+   * ```
         {success:true,data:'dictionary of data in array'}
        ```
 * ### **error Response**
